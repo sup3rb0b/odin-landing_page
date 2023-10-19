@@ -1,0 +1,51 @@
+.header{
+    display: flex;
+    border: solid black;
+    padding: 30px;
+}
+
+.subheader{    
+    display: flex;
+    border: solid black;
+}
+
+img.titlepic{
+    display: flex;
+    height: 100px;
+    width: 100px;
+}
+
+.pagepic{
+    height: 100px;
+    width: 100px;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.images{
+    display: flex;
+}
+.boxes{
+    display: flex;
+    border: solid black;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 150px;
+    width: 120px;
+}
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    border: solid black;
+}
+.shill{
+    border: solid black;
+}
